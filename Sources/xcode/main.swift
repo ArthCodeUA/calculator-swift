@@ -32,7 +32,7 @@ class Calculator: CustomStringConvertible {
     }
     
     var description: String {
-        return String(number);
+        return String(number)
     }
 }
 

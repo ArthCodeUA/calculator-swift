@@ -1,3 +1,3 @@
-# xcode
+# Swift Calculator
 
-A description of this package.
+A calculator to perform operations with numbers
